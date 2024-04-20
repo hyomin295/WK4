@@ -1,4 +1,12 @@
-click [here](https://raw.githubusercontent.com/hyomin295/HW4/main/transplants.txt) to view dataset
+# Practice
+## WK 4
+### Markdown & LaTex
+
+if you want to make something **bold**
+
+if you wish to <u>underline</u> 
+
+cl+ick [here](https://raw.githubusercontent.com/hyomin295/HW4/main/transplants.txt) to view dataset
 
 
 | Code or Value     | Value Description                 | Count | Cumulative | Skip to Item |
@@ -10,4 +18,3 @@ click [here](https://raw.githubusercontent.com/hyomin295/HW4/main/transplants.tx
 |--|--|--|
 |1 | NAHNES 1999-2000 | 9665|
 | . | missing | 0|
-
