@@ -1,3 +1,4 @@
+$$\text{Age, years} \sim \mathcal{N}(\mu=57,\\sigma^{2}=225)$$
 # Practice
 ## WK 4
 ### Markdown & LaTex
